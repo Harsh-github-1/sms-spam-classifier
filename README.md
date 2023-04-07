@@ -1,3 +1,3 @@
 # sms-spam-classifier
-End to end machine learning project, classifying a message is spam or not spam and deployment done on heroku platform
+End to end machine learning project, classifying a message is spam or not spam and deployment done on heroku platform.
 Web Link - https://email-spamm-classifier.herokuapp.com/
